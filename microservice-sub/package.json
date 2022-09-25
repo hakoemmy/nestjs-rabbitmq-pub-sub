@@ -23,7 +23,10 @@
   "dependencies": {
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
+    "@nestjs/microservices": "^9.1.2",
     "@nestjs/platform-express": "^8.0.0",
+    "amqp-connection-manager": "^4.1.6",
+    "amqplib": "^0.10.3",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^7.2.0"
